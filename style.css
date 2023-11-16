@@ -51,4 +51,15 @@ margin-left: 20px;
 font-size: 25px;
 
    }
-    
+   
+.bild {
+   position:absolute;
+   float: left;
+   right: 65%;
+   top: 50%;
+   max-width: 350px;
+   max-height: 474px;
+   width: auto; 
+   height: auto;
+
+}
